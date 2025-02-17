@@ -1,0 +1,23 @@
+.escolha {
+    color: rgb(37, 32, 32);
+}
+
+body {
+    background-color: rgb(20, 243, 8);
+}
+
+#ima1 {
+    width: 16%;
+}
+
+#text1 {
+    color: green;
+}
+
+#text2 {
+    color: black;
+}
+
+#text3 {
+    color: brown;
+}
