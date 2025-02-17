@@ -1,9 +1,11 @@
 .escolha {
     color: rgb(37, 32, 32);
+    text-align: center;
 }
 
 body {
-    background-color: rgb(20, 243, 8);
+    background-color: rgb(14, 28, 155);
+    text-align: center;
 }
 
 #ima1 {
