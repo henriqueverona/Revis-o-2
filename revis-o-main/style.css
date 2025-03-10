@@ -1,11 +1,14 @@
 .escolha {
     color: rgb(37, 32, 32);
     text-align: center;
+    border-style: double;
+    border-color: rgb(39, 187, 51);
 }
 
 body {
     background-color: rgb(14, 28, 155);
     text-align: center;
+    border-style: double;
 }
 
 #ima1 {
@@ -14,6 +17,7 @@ body {
 
 #text1 {
     color: green;
+
 }
 
 #text2 {
