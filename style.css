@@ -5,6 +5,7 @@
     border-color: aliceblue;
     border-width: 2px;
     border-radius: 10px;
+
 }
 
 body {
@@ -26,4 +27,11 @@ body {
 
 #text3 {
     color: brown;
+}
+
+#curiosidades {
+    color: red;
+    border-style: double;
+    border-color: black;
+    
 }
