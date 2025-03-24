@@ -2,7 +2,7 @@
     color: rgb(37, 32, 32);
     text-align: center;
     border-style: double;
-    border-color: aliceblue;
+    border-color: rgb(56, 112, 160);
     border-width: 18x;
     border-radius: 10px;
     border-left: 8px;
@@ -44,3 +44,6 @@ body {
     color: black;
 }
 
+#surgimento {
+    color: rgba(202, 123, 33, 0.884);
+}
