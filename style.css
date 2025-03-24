@@ -15,9 +15,17 @@ body {
 }
 
 #ima1 {
-    width: 16%;
+    width: 30%;
 }
 
+#ima2 {
+    width: 30%;
+
+}
+
+#ima3 {
+    width: 30%;
+}
 #text1 {
     color: rgb(36, 207, 36);
 }
