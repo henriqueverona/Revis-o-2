@@ -5,7 +5,6 @@
     border-color: rgb(56, 112, 160);
     border-width: 18x;
     border-radius: 10px;
-    border-left: 8px;
     margin-left: 20%;
 }
 
@@ -39,14 +38,14 @@ body {
 }
 
 #curiosidades {
-    color: red;
+    color: rgb(204, 23, 23);
     border-style: double;
     border-color: black;
 
 }
 
 #distância {
-  color: rgba(218, 45, 45, 0.678)
+  color: rgb(190, 36, 36)
 }
 
 #blindado {
@@ -54,5 +53,5 @@ body {
 }
 
 #surgimento {
-    color: rgba(202, 123, 33, 0.884);
+    color: rgba(156, 103, 42, 0.884);
 }
