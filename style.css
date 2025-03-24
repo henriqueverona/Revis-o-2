@@ -1,6 +1,8 @@
 .escolha {
     color: rgb(37, 32, 32);
     text-align: center;
+    border-style: double;
+    border-color: aliceblue;
 }
 
 body {
