@@ -5,7 +5,8 @@
     border-color: rgb(56, 112, 160);
     border-width: 18x;
     border-radius: 10px;
-    margin-left: 20%;
+    margin-left: 34%;
+    margin-right: 34%;
 }
 
 body {
@@ -27,25 +28,28 @@ body {
 }
 #text1 {
     color: rgb(36, 207, 36);
+    font-size: medium;
 }
 
 #text2 {
     color: black;
+    font-size: medium;
 }
 
 #text3 {
     color: brown;
+    font-size: medium;
 }
 
 #curiosidades {
-    color: rgb(204, 23, 23);
+    color: red;
     border-style: double;
     border-color: black;
 
 }
 
 #distância {
-  color: rgb(190, 36, 36)
+  color: rgba(218, 45, 45, 0.678)
 }
 
 #blindado {
@@ -53,5 +57,5 @@ body {
 }
 
 #surgimento {
-    color: rgba(156, 103, 42, 0.884);
+    color: rgba(202, 123, 33, 0.884);
 }
