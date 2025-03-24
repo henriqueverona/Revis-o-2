@@ -3,10 +3,11 @@
     text-align: center;
     border-style: double;
     border-color: aliceblue;
+    border-width: 2px;
 }
 
 body {
-    background-color: rgb(14, 28, 155);
+    background-color: rgb(47, 215, 221);
     text-align: center;
 }
 
